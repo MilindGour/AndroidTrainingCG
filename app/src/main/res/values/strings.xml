@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Training CG</string>
+    <string name="title_activity_details_activty">DetailsActivty</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tvFirst">Text 1</string>
+    <string name="tvSecond">Text 2</string>
+    <string name="tvThird">Text 3</string>
+    <string name="tvDescription">Table experiments</string>
+</resources>
